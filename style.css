@@ -1,0 +1,91 @@
+.body{
+    background-color: gray;
+    border: 5px solid black ;
+    height: 400px;
+    width: 400px;
+    border-radius: 15px;
+    padding: 15px;
+    margin-left: 500px;
+}
+
+.head{
+    background-color: rgb(250, 247, 247);
+    border: 1px solid black;
+    border-radius: 10px;
+}
+.head h1{
+    display: flex;
+    justify-content: end;
+    padding-right: 10px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif; 
+}
+
+.family-one{
+    display: inline-flex;
+    justify-content: space-between;
+}
+
+.family-one div{
+    background-color:  white;
+    width: 80px;
+    height: 50px;
+    border-radius: 10px;
+    margin: 10px;
+
+}
+.family-one div:hover{
+    background-color: aquamarine
+}
+
+.family-two{
+    display: inline-flex;
+    justify-content: space-between;
+}
+.family-two div{
+    background-color:  white;
+    width: 80px;
+    height: 50px;
+    border-radius: 10px;
+    margin: 10px;
+}
+.family-two div:hover{
+    background-color: aquamarine
+}
+
+
+.family-three{
+    display: inline-flex;
+    justify-content: space-between;
+}
+.family-three div{
+    background-color:  white;
+    width: 80px;
+    height: 50px;
+    border-radius: 10px;
+    margin: 10px;
+}
+.family-three div:hover{
+    background-color: aquamarine
+}
+
+
+.family-four{
+    display: inline-flex;
+    justify-content: space-between;
+}
+.family-four div{
+    background-color:  white;
+    width: 80px;
+    height: 50px;
+    border-radius: 10px;
+    margin: 10px;
+}
+.family-four div:hover{
+    background-color: aquamarine
+}
+
+.family h4{
+    padding-left: 35px;
+    font-size: 25px;
+    margin-top: 10px;
+}
